@@ -10,14 +10,14 @@ import {
   Alert
 } from "react-native";
 
-class Announcements extends Component {
+class Schedule extends Component {
   render() {
     return (
       <View>
-        <Text>This is the Announcements Page</Text>
+        <Text>Hi</Text>
       </View>
     );
   }
 }
 
-export default Announcements;
+export default Schedule;

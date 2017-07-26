@@ -10,14 +10,14 @@ import {
   Alert
 } from "react-native";
 
-class Announcements extends Component {
+export default class AboutPage extends Component {
   render() {
     return (
       <View>
-        <Text>This is the Announcements Page</Text>
+        <Text>
+          This is the About Page.
+        </Text>
       </View>
     );
   }
 }
-
-export default Announcements;
